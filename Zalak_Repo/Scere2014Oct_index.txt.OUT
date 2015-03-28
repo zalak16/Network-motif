@@ -1,0 +1,47 @@
+FANMOD 1.1 subgraph enumeration
+-------------------------------
+
+Network name: C:\Zalak\CSS 595 Project\GitHub\Zalak_Repo\Scere2014Oct_index.txt
+Network type: Directed
+Number of nodes: 5131
+Number of edges: 22441
+Number of single edges: 22441
+Number of mutual edges: 0
+
+Algorithm: enumeration
+Subgraph size: 3
+
+Generated 1000 random networks
+   with locally constant number of bidirectional edges,
+   3 exchanges per edge and 3 tries per edge.
+
+764600 subgraphs were enumerated in the original network.
+783675864 subgraphs were enumerated in the random networks.
+784440464 subgraphs were enumerated in all networks.
+
+For the random networks: 71949589 tries were made, 67333419 were successful.
+Randomization took 145.252 seconds.
+Enumeration took 850.184 seconds.
+
+
+Result overview:
+
+ ID Adj   Frequency     Mean-Freq  Standard-Dev    Z-Score  p-Value
+         [Original]      [Random]      [Random]
+
+  6 000     40.252%       40.537%   3.9922e-005    -71.274        1
+    000
+    110
+
+ 12 000     29.416%       29.822%    0.00010842    -37.495        1
+    001
+    100
+
+ 36 000     28.319%       28.894%   7.3518e-005    -78.213        1
+    100
+    100
+
+ 38 000     2.0132%      0.69987%     0.0001749     75.092        0
+    100
+    110
+
